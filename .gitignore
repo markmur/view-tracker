@@ -1,0 +1,12 @@
+node_modules
+package-lock.json
+yarn-error.log
+.DS_Store
+.vscode
+.sonarlint
+dist
+coverage
+.idea
+.cache
+demo
+static
